@@ -1,0 +1,336 @@
+<!DOCTYPE HTML>
+<!--
+	Dopetrope by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Portfolio BTS SIO SLAM Paris(17) BETTAIBI MOUNIR - 2020-2022</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<section id="header">
+
+					<!-- Logo -->
+						<h1><a href="index.html">Parcours</a></h1>
+						<p>Bettaibi Mounir</p>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li ><a href="index.html">Qui suis-je</a></li>
+								<li>
+									<li class="current"><a href="Parcours.html">Parcours</a>
+									<ul>
+										<li><a href="Parcours.html">Mes Formations</a></li>
+										<li><a href="Parcours.html">Mes Expérience Professionnelles</a></li>
+										<li><a href="Parcours.html">Mes Compétences</a></li>
+										<li>
+											<a href="Parcours.html">Mes Centres D'intérêts</a>
+												<li><a href="Parcours.html">Mon CV</a></li>
+											<li><a href="Parcours.html">Projet Professionnel</a></li>
+										
+										
+									</ul>
+								</li>
+								<li><a href="Projet.html">Projets</a></li>
+								<li><a href="Veille Technologique.html">Veille Technologique</a></li>
+								<li><a href="Contact.html">Contact</a></li>
+							</ul>
+						</nav>
+
+					<!-- Banner -->
+						<section id="banner">
+							<header>
+								
+
+								<h2>Mon Parcours ?</h2>
+								<p>Un parcours atypique pour finalement trouver sa voie dans l'informatique</p>
+							</header>
+						</section>
+						<section id="intro" class="container">
+							<br/>
+							<header class="major">
+								<h2 id="formation">Mes Formations</h2>
+							</header>
+							
+								<div class="col-4 col-12-medium">
+									<section class="middle">
+									<br/>
+										<img src="images/lenna.gif" alt="" style="width:160px;"/>
+										<br/><br/>
+										<header>
+											<h2>Lycée Polyvalent Application de l'ENNA | 2017-2019</h2>
+										</header>
+										<p>Lycée | Lycée, Saint-Denis<br/>Ce bac pro aborde l'ensemble des compétences
+professionnelles permetant au technicien
+d'exercer les activités liées à la préparation,
+l'installation, la maintenance des systèmes dans
+son domaine. Le titulaire sera aussi capable de
+participer au service client avec les services
+commerciaux. </p>
+									</section>
+								</div>
+								<div class="col-4 col-12-medium">
+									<section class="middle">
+										<img src="images/iris1.png" alt="" style="width:200px;"/>
+										<header>
+											<h2>BTS SIO (Services Informatiques au Organisations) | 2020-2022</h2>
+										</header>
+										<p>IRIS, Paris(17e).<br/>Option SLAM (Solutions Logicielles et Applications Métiers), en préparation</p>
+
+										<p>Qu'est ce que le BTS SIO ?<br/>
+Le BTS Services Informatiques aux Organisations est un diplôme reconnu par l'état de niveau Bac+2. Il remplace depuis septembre 2011 l'ancien BTS Informatique de Gestion (BTS IG). En effet, cette nouvelle formule répond aux attentes de la profession en matière de qualification. Le programme a évolué en fonction de la place et du rôle des TIC (Technologies d'Information Communication).
+​
+Il associe aux enseignements théoriques et professionnels (en contrôle continu et final) deux stages en entreprise (10 à 11 semaines réparties sur les deux années d'études). 
+
+​
+
+BTS SIO SLAM
+
+​
+
+L'option Solutions logicielles et applications métiers forme des spécialistes des logiciels (rédaction d'un cahier des charges, formulation des besoins et spécifications, développement, intégration au sein de la société).
+
+Les techniciens supérieurs en informatique option slam, sont préparés aux métiers de : 
+
+​
+
+Développeur d'applications informatiques
+
+Développeur informatique
+
+Analyste d'applications ou d'études
+
+Analyste programmeur
+
+Chargé d'études informatiques
+
+Informaticien d'études
+
+Programmeur analyste
+
+Programmeur d'applications
+
+Responsable des services applicatifs
+
+Technicien d'études informatiques</p>
+									</section>
+								</div>
+							</div>
+						</section>
+
+				</section>
+
+
+					<!-- Intro -->
+						
+			<!-- Main -->
+				<section id="main">
+					<div class="container">
+						<div class="row">
+							<div id="experience" class="col-12">
+								<header class="major">
+									<h2 id="experience">Mes expériences professionnelles</h2>
+								</header>
+							</div>
+							<div class="col-6 col-12-small">
+								<section class="box" id="veilleTechno">
+									<a href="https://www.videlio.com/" class="image featured" target="_blank"><img src="images/videlio.jpg" alt="" /></a>
+									
+									<header>
+										
+										<h3>Alternance en Développement informatique</h3>
+										<p>Videlio, Paris<br/></p>
+									</header>
+									<p>31 Aout - 15 Aout 2021 / Alternace de première année de BTS</p>
+									<p>Réalisation d'une application de gestion et de génération des statistiques journalières de la Cité des Sciences sur  Excel.</p>
+									<p>Application réalisée seule et dans les temps avec l'aide de mon tuteur  en partant d'une application de test de fonctionnalités dont j'ai pu reprendre un bon nombre de code. Je n'avais aucune notion de Notpad++ en arrivant en Alternance.</p>
+									<p>Cette expérience a été très enrichissante et m'a apporté un très bon premier contact avec le monde professionnel de l'informatique.</p>
+								</section>
+							</div>
+							<div class="col-6 col-12-small">
+								<section class="box" id="veilleTechno">
+									<a href="https://www.videlio.com/" class="image featured" target="_blank"><img src="images/videlio.jpg" alt="" /></a>
+									<header>
+										
+										<h3>Alternance en Développement informatique</h3>
+										<p>Videlio, Paris<br/></p>
+									</header>
+									<p> 2 Septembre- 6 Décembre 2021 / Alternance de  deuxième année de BTS</p>
+									<p>Réalisation d'un outil de contrôle de la synchronisation des données de tickets d'incidents d'un classeur Excel avec une application nommée Coswin .</p>
+									<p>Application réalisée seule et dans les temps avec l'aide de mon tuteur  en disposant du classeur pré-existant dont les données conservée étaient remplies à la main et dont il fallait automatiser la synchronisation des données.</p>
+									<p>Le fait d'avoir déjà pratiqué le Notpad++ lors de mon précédent stage m'a permis de ne pas perdre de temps dans l'apprentissage d'un nouveau langage, cependant j'ai dû apprendre à maîtriser les services web que je n'avais jamais utilisés.</p>
+									<p>Cette seconde expérience a été à nouveau très enrichissante et m'a permis d'avoir un second contact avec le monde professionnel de l'informatique toujours d'une grande qualité. C'est avec plaisir que je pourrai retravailler dans ce service à l'avenir.</p>
+								</section>
+							</div>
+							
+							<div class="col-12">
+
+								<!-- Portfolio -->
+								<section>
+									<header class="major">
+										<h2 id="competence">Mes Compétences</h2>
+									</header>
+									<center><table class="competences">
+										<tr>
+											<td>
+												<h3>Développement</h3>
+												<br/>
+												<h4>Langages</h4>
+												<ul>
+													<li>JAVA</li>
+													<li>Python</li>
+													<li>Notpad ++</li>
+												</ul>
+												<h4>Langages web</h4>
+												<ul>
+													<li>HTML</li>
+													<li>PHP</li>
+													<li>CSS</li>
+													<li>SQL</li>
+													<li>JavaScript</li>
+													<li>XML</li>
+												</ul>
+												<h4>Serveurs de bases de données</h4>
+												<ul><li>MySql</li></ul>
+											</td>
+											<td>
+												<h3>Réseau/Matériel</h3>
+												<br/>
+												<ul>
+													<li>Système d'expoitation</li>
+													<li>Adressage IP/configuration</li>
+													<li>Virtualisation</li>
+												</ul>
+												<h3>Langues</h3>
+												<br/>
+												<ul>
+													<li>Anglais - Niveau C1</li>
+													<li>Arabe - Niveau C1</li>
+												</ul>
+											</td>
+										</tr>
+									</table></center>
+								</section>
+								<section>
+									<header class="major">
+										<h2 id="interet">Mes Centres d'intérêts</h2>
+									</header>
+									<div class="row">
+										<div class="col-4 col-6-medium col-12-small">
+											<section class="box">
+												<a class="image featured"><img src="images/bask.jpg" align="right"alt=""style="width:190px ;height:130px;" /></a>		
+												<header>
+													<h3>Basket</h3>
+												</header>
+												<p>Champion de basket 3v3 en régional </p>
+												<footer>
+												
+												</footer>
+											</section>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<section class="box">
+												<a class="image featured"><img src="images/boxe.jpeg" align="right"alt="" style="width:190px;"/></a>
+												<header>
+													<h3>Boxe</h3>
+												</header>
+												<p>Boxe depuis septembre 2019. Nouvelle source de motivation et de dépassement de soi !</p>
+											</section>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<section class="box">
+												<a class="image featured"><img src="images/dessiner.jpg" align="right"alt="" style="width:190px ;height:130px;"/></a>
+												<header>
+													<h3>Dessin</h3>
+												</header>
+												<p>Dessinée est devenue ma nouvelle inspiration pour  la créativité et pour mes futur projets</p>
+											</section>
+										</div>
+										
+										<p>Découvrez mes autres centres d'intérêts sur mon <a href="#CV" class="smooth">CV</a>.</p>
+									</div>
+								</section>
+
+							</div>
+							
+						</div>
+					</div>
+					<br/>
+					<header class="major">
+						<h2 id="CV">Mon CV</h2>
+					</header>
+					<center>
+						<h3><a href="cv bettaibi.pdf"  class="button large smooth">Consulter mon CV</a></h3>
+						<footer>
+							<ul class="actions">
+								<li><a href="#header" class="button large smooth">Menu</a></li>
+							</ul>
+						</footer>
+					</center>
+				</section>
+
+			<!-- Footer -->
+			<section id="footer">
+	<div class="container">
+		<div class="row">
+			<div>
+				<section>
+					<header>
+						<h2>Retrouvez moi sur les réseaux</h2>
+				</header>
+									<ul class="social">
+										
+										<li><a class="icon brands fa-twitter" href="https://twitter.com/onlymounir"><span class="label">Twitter</span></a></li>
+										
+										<li><a class="icon brands fa-linkedin-in" href="https://www.linkedin.com/"><span class="label">LinkedIn</span></a></li>
+									</ul>
+									<ul class="contact">
+										
+										<li>
+											<h3>Mail</h3>
+											<p><a href="https://mail.google.com/mail/">mounirbettaibi3@gmail.com</a></p>
+										</li>
+										<li>
+											<h3>Phone</h3>
+											<p>(+33) 7 83 51 62 08</p>
+										</li>
+										<li>
+											<br>
+											<center>
+												<p>Réalisé par Bettaibi Mounir<p>
+												</center>
+											</li>
+									</ul>
+								</section>
+							</div>
+							<div class="col-12">
+
+				<!-- Copyright -->
+				<div id="copyright">
+					<p>Réalisé par Bettaibi Mounir</p>
+					<ul class="links">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a >HTML5 UP</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
