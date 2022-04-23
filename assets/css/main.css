@@ -2191,12 +2191,7 @@ input, select, textarea {
 			border-radius: 5px;
 		}
 
-			#banner header h2 {
-				color: #fff;
-				font-weight: ;
-				font-size: 2.5em;
-				margin: 0 0 0.65em 0;
-			}
+		
 
 			#banner header p {
 				color: #d52349;
@@ -2907,3 +2902,5 @@ input, select, textarea {
 			}
 
 	}
+
+	
