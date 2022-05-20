@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #252122;
+		color: #f5f0f2;
 		font-weight: 700;
 	}
 
@@ -2189,9 +2189,7 @@ input, select, textarea {
 			display: inline-block;
 			padding: 2.5em 5em;
 			border-radius: 5px;
-		}
-
-		
+				}		
 
 			#banner header p {
 				color: #d52349;
