@@ -133,13 +133,13 @@ input, select, textarea {
 		font-style: italic;
 	}
 
-	h2, h5 {
+	 h5 {
 		color: #151112;
 		font-weight: 700;
-		
+
 	}
 
-	h1,  h3, h4, h6 {
+	h1,  h2, h3, h4, h6 {
 		color: #f5f0f2;
 		font-weight: 700;
 	}
